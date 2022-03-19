@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![sunghwankwon1994's github stats](https://github-readme-stats.vercel.app/api?username=sunghwankwon1994&show_icons=true)
-[![sunghwankwon1994's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghwankwon1994ID&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sunghwankwon1994)
+[![sunghwankwon1994's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghwankwon1994&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sunghwankwon1994)
