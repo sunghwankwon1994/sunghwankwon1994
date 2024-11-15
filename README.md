@@ -15,5 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![sunghwankwon1994's github stats](https://github-readme-stats.vercel.app/api?username=sunghwankwon1994&show_icons=true)
-[![sunghwankwon1994's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=sunghwankwon1994&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/sunghwankwon1994)
+<a href="https://github.com/sunghwankwon1994/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunghwankwon1994&layout=donut&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=006241&text_color=000&title_color=006241&count_private=true&exclude_repo=Face-Transfer-Application" width=38% />
+</a>    
+<a href="https://github.com/sunghwankwon1994/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=sunghwankwon1994&show_icons=true&theme=material-palenight&hide_border=true&bg_color=fff&icon_color=006241&text_color=000&title_color=006241&count_private=true" width=56% />
+</a>
